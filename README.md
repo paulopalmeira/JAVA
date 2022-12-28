@@ -1,10 +1,7 @@
 # JAVA
 Repository to share my JAVA studies
 
-16/11/2022 - Chapter 1: - Getting started with Java Language;
-			- Olá, mundo!;
-			- Operadores lógicos;
-			- Comparadores.
+28/12/2022 - Java e Orientação a Objetos
 
-Continua na aula 8 - Operadores lógicos... do curso de javaDEVDOJO
+Variáveis, Casting, 
 
